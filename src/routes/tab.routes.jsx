@@ -2,7 +2,7 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Feather from "react-native-vector-icons/Feather";
 import { Text } from "react-native";
 
-import user from "../data/Profile";
+import {user} from "../data/Profile";
 
 import Home from "../screens/Home";
 import Profile from "../screens/Profile";
